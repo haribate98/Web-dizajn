@@ -1,0 +1,19 @@
+body{
+	background-image: url(../data/pozadina.jpg);
+	background-attachment: fixed;
+}
+.korisnik{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	background-image: url(../data/pozadina.jpg);
+	border: 2px solid black;
+	margin-left: 87%; 
+}
+h1{
+	text-align: center;
+	border: solid black 3px;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-image: url(../data/zlatna.jpg);
+}

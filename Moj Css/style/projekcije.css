@@ -1,0 +1,52 @@
+caption{
+	font-weight: bold;
+	color: black;
+}
+h1{
+	text-align: center;
+	border: solid black 3px;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-image: url(../data/zlatna.jpg);
+	color: black;
+}
+body{
+	background-image: url(../data/zafilm.jpeg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: white;
+}
+video{
+	 width:50%;
+	 height:70%;
+	 float: left
+}
+.poster1{
+	text-align:left;
+	height: 40%;
+	width: 30%;
+	padding-left: 3%;
+	float: left;
+	margin-right: 15%;
+}
+table,th,td {
+	border:  1px solid black;
+	border-collapse: collapse;
+	background-image: url(../data/zlatna.jpg);
+	margin-top: 250px;
+	color: black
+}
+th,td {
+	padding: 5px;
+	text-align: center;
+	width: 40%;
+	height: 50%;
+}
+.korisnik{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	background-image: url(../data/pozadina.jpg);
+	border: 2px solid black;
+	margin-left: 70%; 
+}
